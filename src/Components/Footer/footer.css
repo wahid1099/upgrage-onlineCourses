@@ -1,0 +1,17 @@
+.footer-container{
+    background-color: #282c34;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.item{
+    list-style: none;
+
+    font-size: 22px;
+    font-weight: 500;
+      color: white;
+    cursor: pointer;
+
+    text-decoration: none;
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "5a984b2",
+    "category": "Online Live Class",
+    "name": "IELTS  MASTER CLASS",
+    "img": "https://ieltsbd.org/wp-content/uploads/2020/04/Course.jpg",
+    "description": "The International English Language Testing System, or IELTS, is an international standardized test of English language proficiency for non-native English language speakers. It is jointly managed by the British Council, IDP: IELTS Australia and Cambridge Assessment English, and was established in 1989.",
+    "fee": 15000
+  },
+  {
+    "id": "5a984b2",
+    "category": "Online Live Class",
+    "name": "GRE MASTER CLASS",
+    "img": "https://www.manyagroup.com/wp-content/uploads/2020/05/GRE-Express-Fast-Track-GRE-Course-1-1280x720.jpg",
+    "description": "The Graduate Record Examinations is a standardized test that is an admissions requirement for many graduate schools in the United States and Canada and few in other countries. The GRE is owned and administered by Educational Testing Service",
+    "fee": 17000
+  },
+  {
+    "id": "5a984b2",
+    "category": "Online Live Class",
+    "name": "SPOKEN ENGLISH MASTER CLASS",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF41wNCmiHNMPaO_6cfEeiCX9jZt6jnq5L6A&usqp=CAU",
+    "description": "Being confident with your English can enhance your life in so many ways. It can improve your social life, career prospects, and can help you to explore the world more freely. \n\nIn our classes, you will participate in activities that will improve your ability to speak naturally and confidently. With lessons based on real-life topics, you will talk, practise and improve your fluency and accuracy.",
+    "fee": 8000
+  },
+  {
+    "id": "5a984b2",
+    "category": "Online Live Class",
+    "name": "IELTS CRESH COURSE",
+    "img": "http://domaininternational.in/wp-content/uploads/2020/01/IELTS-Crash-Course-2-min.jpg",
+    "description": "The International English Language Testing System, or IELTS, is an international standardized test of English language proficiency for non-native English language speakers. It is jointly managed by the British Council, IDP: IELTS Australia and Cambridge Assessment English, and was established in 1989.",
+    "fee": 10000
+  },
+  {
+    "id": "5a984b2",
+    "category": "Online Live Class",
+    "name": "UI / UX Design Specialization",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWZVNBQPryaq7Yx7HxrgaJ9ldOG7G0Pi_shrCiPfNkKYNqgk6CVC64AA1Bqyuu4ZdyAOw&usqp=CAU",
+    "description": "The UI/UX Design Specialization brings a design-centric approach to user interface and user experience design, and offers practical, skill-based instruction centered around a visual communications perspective, rather than on one focused on marketing or programming alone. In this sequence of four courses, you will summarize and demonstrate all stages of the UI/UX development process, from user research to defining a project’s strategy, scope, and information architecture, to developing sitemaps and wireframes. You’ll learn current best practices and conventions in UX design and apply them to create effective and compelling screen-based experiences for websites or ap.",
+    "fee": 12000
+  },
+  {
+    "id": "5a984b2",
+    "category": "Online Live Class",
+    "name": "Mobile app development",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWF5IorBoaR321bBBzOAMLJDMBlOLWG7KIw&usqp=CAU",
+    "description": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These software applications are designed to run on mobile devices, such as a smartphone or tablet computer. ",
+    "fee": 25000
+  },
+  {
+    "id": "5a984b2",
+    "category": "Online Live Class",
+    "name": "WEB DEVLOPEMENT",
+    "img": "https://www.proitmelbourne.com.au/blog/wp-content/uploads/2020/12/Web-mobile-development-banner-06.jpg",
+    "description": "Web development is the work involved in developing a Web site for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.",
+    "fee": 15000
+  },{
+  "id": "5a984b2",
+  "category": "Online Live Class",
+  "name": "Game Developmen",
+  "img": "https://www.seamedu.com/blog/wp-content/uploads/2019/11/game_designvsgame_development02-4-870x432.jpg",
+  "description": "Game Development is the art of creating games and describes the design, development and release of a game. It may involve concept generation, design, build, test and release. ... A game developer could be a programmer, a sound designer, an artist, a designer or many other roles available in the industry",
+  "fee": 30000
+}
+
+]
